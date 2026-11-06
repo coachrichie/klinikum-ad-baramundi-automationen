@@ -1,0 +1,11 @@
+Lokale Adminrechte: Wer darf wirklich?
+
+Ein deaktiviertes AD-Konto kann auf Servern und Arbeitsplatzsystemen weiterhin Mitglied der lokalen Administratorgruppe sein. Ebenso riskant sind unbekannte lokale Konten oder Supportkonten mit unnötig großer Reichweite.
+
+Ein belastbarer Audit verbindet deshalb drei Sichtweisen: den Ist-Zustand aus der Baramundi-Inventur, den Kontostatus im lokalen Active Directory und eine dokumentierte Freigabe. So werden deaktivierte, nicht auflösbare oder nicht genehmigte Administratoren sichtbar, bevor sie zum Angriffspfad werden.
+
+Die zugehörige PowerShell-Automation arbeitet ausschließlich lesend und erstellt strukturierte Befunde. Änderungen erfolgen erst nach fachlicher Prüfung, Wartungsplanung und Rollback-Vorbereitung.
+
+Könnte Ihre Klinik heute für jedes lokale Administratorkonto Kontostatus, Freigabe und betroffene Systeme belegen?
+
+#KrankenhausIT #ActiveDirectory #Baramundi #Hardening #LeastPrivilege #PowerShell
