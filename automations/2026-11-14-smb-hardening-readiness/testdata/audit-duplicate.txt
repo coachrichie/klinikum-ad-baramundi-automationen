@@ -1,0 +1,3 @@
+DeviceName,AuditTimeUtc,LegacyProtocolEnabled,InboundSigningRequired,OutboundSigningRequired,GuestAccessEnabled
+MED-FS-001,2026-11-14T12:00:00Z,false,true,true,false
+med-fs-001,2026-11-14T12:05:00Z,false,true,true,false
