@@ -1,0 +1,2 @@
+ComputerName,Enabled,OperatingSystem
+MED-FS-001,true,Windows Server 2022

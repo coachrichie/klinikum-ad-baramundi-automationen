@@ -1,0 +1,1 @@
+DeviceName,AuditTimeUtc,LegacyProtocolEnabled,InboundSigningRequired,OutboundSigningRequired,GuestAccessEnabled
