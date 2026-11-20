@@ -1,0 +1,2 @@
+DeviceName,AuditTimeUtc,LdapSigningRequired,ChannelBindingMode,UnsignedBindEvents24h,ChannelBindingEvents7d
+CLINIC-DC-001,2026-11-20T10:00:00Z,true,Unsupported,0,0
