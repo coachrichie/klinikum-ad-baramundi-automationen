@@ -1,0 +1,2 @@
+ComputerName,Enabled,OperatingSystem,IsDomainController
+CLINIC-DC-001,true,Windows Server 2022,true

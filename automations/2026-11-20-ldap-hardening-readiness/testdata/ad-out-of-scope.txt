@@ -1,0 +1,3 @@
+ComputerName,Enabled,OperatingSystem,IsDomainController
+CLINIC-DC-099,false,Windows Server 2019,true
+CLINIC-FS-001,true,Windows Server 2022,false
